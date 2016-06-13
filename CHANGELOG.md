@@ -7,6 +7,16 @@
 
   *Nolan Evans*
 
+## Tempfix
+
+* Conform a rule of id attribute defined in HTML 4.01 specification
+
+  *namusyaka*
+
+* Prevent empty anchor if inserted chars do not exist
+
+  *namusyaka*
+
 ## Version 3.3.4
 
 * Fix `bufprintf` to correctly work on Windows MinGW-w64 so strings
